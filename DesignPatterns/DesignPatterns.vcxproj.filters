@@ -35,13 +35,13 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DesignPatterns.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="CoffinDrinks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Tea.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateMethod.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

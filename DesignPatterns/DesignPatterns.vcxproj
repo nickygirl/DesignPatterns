@@ -89,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CoffinDrinks.cpp" />
-    <ClCompile Include="DesignPatterns.cpp" />
+    <ClCompile Include="TemplateMethod.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="Tea.cpp" />
   </ItemGroup>
